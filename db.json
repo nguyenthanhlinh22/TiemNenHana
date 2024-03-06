@@ -1,0 +1,557 @@
+{
+  "categories": [
+    {
+      "name": "Nến ",
+      "id": 1
+    },
+    {
+      "name": "Đồ Trang trí ",
+      "id": 2
+    },
+    {
+      "name": "Phụ Kiện ",
+      "id": 3
+    },
+    {
+      "name": "Đồ handmade",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Nến Decord",
+      "cate_id": "3",
+      "price": "120",
+      "detail": "Nến dùng để trang trí",
+      "image": "tc2.jpg",
+      "id": 2
+    },
+    {
+      "name": "Nến Khử Mùi ",
+      "cate_id": "1",
+      "price": "75",
+      "detail": "nhân 2 niềm thơm ",
+      "image": "ct4.jpg",
+      "id": 3
+    },
+    {
+      "name": "Móc Khóa Con Heo Bằng Len ",
+      "cate_id": "3",
+      "price": "10",
+      "detail": "cute nhân 1000",
+      "image": "tt.jpg",
+      "id": 4
+    },
+    {
+      "name": "Móc Khóa Con Cừu Bằng Len ",
+      "cate_id": "3",
+      "price": "11",
+      "detail": "Cute Nhân 200",
+      "image": "tt1.jpg",
+      "id": 5
+    },
+    {
+      "name": "Sticker custom ",
+      "cate_id": "3",
+      "price": "5",
+      "detail": "Có Thể Đặt theo mẫu ",
+      "image": "ct7.jpg",
+      "id": 6
+    },
+    {
+      "name": "Gương Decord ",
+      "cate_id": "2",
+      "price": "30",
+      "detail": "Dùng để soi gương ^^",
+      "image": "dc1.jpg",
+      "id": 7
+    },
+    {
+      "name": "Lịch để Bàn ",
+      "cate_id": "2",
+      "price": "10",
+      "detail": "Lịch cập nhật theo năm ",
+      "image": "e4018a018fd5c9b7b0a314d18301e6a0.jpg",
+      "id": 8
+    },
+    {
+      "name": "Đèn Trang trí ",
+      "cate_id": "2",
+      "price": "25",
+      "detail": "Đầy đủ như trong hình",
+      "image": "tc2.jpg",
+      "id": 9
+    }
+  ],
+  "orders": [
+    {
+      "customer_name": "",
+      "customer_address": "",
+      "customer_email": "",
+      "customer_phone_number": "",
+      "created_date": "Tue Feb 20 2024 14:48:08 GMT+0700 (Indochina Time)",
+      "status": "Checking",
+      "id": 1
+    },
+    {
+      "customer_name": "",
+      "customer_address": "",
+      "customer_email": "",
+      "customer_phone_number": "",
+      "created_date": "Wed Feb 21 2024 23:54:23 GMT+0700 (Indochina Time)",
+      "status": "Checking",
+      "id": 2
+    },
+    {
+      "customer_name": "Nguyễn Thành Linh",
+      "customer_address": "Tam Cẩm Phú Thịnh Phú Ninh Quảng Nam",
+      "customer_email": "thanhlinhnguyen22032004@gmail.com",
+      "customer_phone_number": "+84813979994",
+      "created_date": "Fri Feb 23 2024 16:01:30 GMT+0700 (Indochina Time)",
+      "status": "Checking",
+      "id": 3
+    },
+    {
+      "customer_name": "Nguyễn Thành Linh",
+      "customer_address": "Tam Cẩm Phú Thịnh Phú Ninh Quảng Nam",
+      "customer_email": "thanhlinhnguyen22032004@gmail.com",
+      "customer_phone_number": "+84813979994",
+      "created_date": "Mon Feb 26 2024 18:26:51 GMT+0700 (Indochina Time)",
+      "status": "Checking",
+      "id": 4
+    },
+    {
+      "customer_name": "Nguyễn Thành Linh",
+      "customer_address": "Tam Cẩm Phú Thịnh Phú Ninh Quảng Nam",
+      "customer_email": "thanhlinhnguyen22032004@gmail.com",
+      "customer_phone_number": "+84813979994",
+      "created_date": "Wed Feb 28 2024 19:56:25 GMT+0700 (Indochina Time)",
+      "status": "Checking",
+      "id": 5
+    },
+    {
+      "customer_name": "Nguyễn Thành Linh",
+      "customer_address": "Tam Cẩm Phú Thịnh Phú Ninh Quảng Nam",
+      "customer_email": "thanhlinhnguyen22032004@gmail.com",
+      "customer_phone_number": "+84813979994",
+      "created_date": "Thu Feb 29 2024 12:01:57 GMT+0700 (Indochina Time)",
+      "status": "Checking",
+      "id": 6
+    },
+    {
+      "customer_name": "Nguyễn Thành Linh",
+      "customer_address": "Tam Cẩm Phú Thịnh Phú Ninh Quảng Nam",
+      "customer_email": "thanhlinhnguyen22032004@gmail.com",
+      "customer_phone_number": "+84813979994",
+      "created_date": "Thu Feb 29 2024 14:36:32 GMT+0700 (Indochina Time)",
+      "status": "Checking",
+      "id": 7
+    },
+    {
+      "customer_name": "Nguyễn Thành Linh",
+      "customer_address": "Tam Cẩm Phú Thịnh Phú Ninh Quảng Nam",
+      "customer_email": "thanhlinhnguyen22032004@gmail.com",
+      "customer_phone_number": "+84813979994",
+      "created_date": "Fri Mar 01 2024 14:57:00 GMT+0700 (Indochina Time)",
+      "status": "Checking",
+      "id": 8
+    }
+  ],
+  "order_details": [
+    {
+      "detail": [
+        {
+          "product_id": 1,
+          "quantity": 1,
+          "unit_price": "19.68"
+        },
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "unit_price": "20.99"
+        },
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "unit_price": "22.21"
+        },
+        {
+          "product_id": 7,
+          "quantity": 1,
+          "unit_price": "13.33"
+        },
+        {
+          "product_id": 8,
+          "quantity": 1,
+          "unit_price": "9.99"
+        },
+        {
+          "product_id": 10,
+          "quantity": 1,
+          "unit_price": "30"
+        },
+        {
+          "product_id": 11,
+          "quantity": 1,
+          "unit_price": "31.22"
+        },
+        {
+          "product_id": 9,
+          "quantity": 1,
+          "unit_price": "8.88"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "detail": [
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "unit_price": "22.21"
+        },
+        {
+          "product_id": 1,
+          "quantity": 1,
+          "unit_price": "19.68"
+        },
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "unit_price": "20.2"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "detail": [
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "unit_price": "22.21"
+        },
+        {
+          "product_id": 1,
+          "quantity": 1,
+          "unit_price": "19.68"
+        },
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "unit_price": "20.2"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "detail": [
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "unit_price": "22.21"
+        },
+        {
+          "product_id": 1,
+          "quantity": 1,
+          "unit_price": "19.68"
+        },
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "unit_price": "20.2"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "detail": [
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "unit_price": "22.21"
+        },
+        {
+          "product_id": 1,
+          "quantity": 1,
+          "unit_price": "19.68"
+        },
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "unit_price": "20.2"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "detail": [
+        {
+          "product_id": 4,
+          "quantity": 1,
+          "unit_price": "11.83"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "detail": [
+        {
+          "product_id": 4,
+          "quantity": 1,
+          "unit_price": "11.83"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "detail": [
+        {
+          "product_id": 4,
+          "quantity": 1,
+          "unit_price": "11.83"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "detail": [
+        {
+          "product_id": 11,
+          "quantity": 1,
+          "unit_price": "31.22"
+        },
+        {
+          "product_id": 10,
+          "quantity": 1,
+          "unit_price": "30"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "detail": [
+        {
+          "product_id": 5,
+          "quantity": 1,
+          "unit_price": "19.58"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "detail": [
+        {
+          "product_id": 6,
+          "quantity": 1,
+          "unit_price": "22.12"
+        },
+        {
+          "product_id": 7,
+          "quantity": 1,
+          "unit_price": "13.33"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "detail": [
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "unit_price": "20.2"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "detail": [
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "unit_price": "22.21"
+        },
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "unit_price": "20.2"
+        },
+        {
+          "product_id": 4,
+          "quantity": 1,
+          "unit_price": "11.83"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "detail": [
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "unit_price": "22.21"
+        },
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "unit_price": "20.2"
+        },
+        {
+          "product_id": 4,
+          "quantity": 1,
+          "unit_price": "11.83"
+        },
+        {
+          "product_id": 5,
+          "quantity": 1,
+          "unit_price": "19.58"
+        },
+        {
+          "product_id": 6,
+          "quantity": 1,
+          "unit_price": "22.12"
+        },
+        {
+          "product_id": 7,
+          "quantity": 1,
+          "unit_price": "13.33"
+        },
+        {
+          "product_id": 8,
+          "quantity": 1,
+          "unit_price": "9.99"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "detail": [
+        {
+          "product_id": 19,
+          "quantity": 1,
+          "unit_price": "22"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "detail": [
+        {
+          "product_id": 14,
+          "quantity": 1,
+          "unit_price": "20"
+        },
+        {
+          "product_id": 13,
+          "quantity": 1,
+          "unit_price": "17"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "detail": [
+        {
+          "product_id": 20,
+          "quantity": 1,
+          "unit_price": "11"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "detail": [
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "unit_price": "100"
+        },
+        {
+          "product_id": 1,
+          "quantity": 1,
+          "unit_price": "100000"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "detail": [
+        {
+          "product_id": 1,
+          "quantity": 1,
+          "unit_price": "100000"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "detail": [
+        {
+          "product_id": 1,
+          "quantity": 1,
+          "unit_price": "100000"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "detail": [
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "unit_price": "75"
+        },
+        {
+          "product_id": 6,
+          "quantity": 1,
+          "unit_price": "5"
+        },
+        {
+          "product_id": 7,
+          "quantity": 1,
+          "unit_price": "30"
+        },
+        {
+          "product_id": 5,
+          "quantity": 1,
+          "unit_price": "11"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "detail": [
+        {
+          "product_id": 6,
+          "quantity": 1,
+          "unit_price": "5"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "detail": [
+        {
+          "product_id": 1,
+          "quantity": 1,
+          "unit_price": "130"
+        },
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "unit_price": "120"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "detail": [
+        {
+          "product_id": 4,
+          "quantity": 1,
+          "unit_price": "10"
+        }
+      ],
+      "id": 24
+    }
+  ]
+}

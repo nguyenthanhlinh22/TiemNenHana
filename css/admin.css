@@ -1,0 +1,252 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#nav-header {
+  background-color: rgb(216, 235, 229) !important;
+}
+#app {
+  margin: 3%;
+}
+
+#app > table {
+  text-align: center;
+}
+
+#img_show {
+  max-height: 100px;
+  margin: 2%;
+}
+#wrapper {
+  overflow-x: hidden;
+}
+.container {
+  margin: 0;
+  max-width: 100%;
+  padding: 0;
+}
+
+#sidebar-wrapper {
+  min-height: 100vh;
+  margin-left: -15rem;
+  transition: margin 0.25s ease-out;
+}
+
+#sidebar-wrapper .sidebar-heading {
+  padding: 0.875rem 1.25rem;
+  font-size: 1.2rem;
+  color: white;
+}
+
+#sidebar-wrapper .list-group {
+  width: 15rem;
+  color: white;
+}
+
+#page-content-wrapper {
+  min-width: 100vw;
+}
+a.list-group-item.list-group-item-action.list-group-item-action.bg-dark.p-3 {
+  color: white;
+}
+body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
+  margin-left: 0;
+}
+
+@media (min-width: 768px) {
+  #sidebar-wrapper {
+    margin-left: 0;
+  }
+  #page-content-wrapper {
+    min-width: 0;
+    width: 100%;
+  }
+  body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
+    margin-left: -15rem;
+  }
+}
+
+#admin-img {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+form {
+  max-width: 400px;
+  margin-left: 20%;
+  margin-top: 1%;
+  margin-bottom: 20px;
+}
+form > button {
+  margin: 0 auto;
+}
+tbody > tr > td:last-child {
+  width: 100px !important;
+}
+td {
+  max-height: 100px !important;
+}
+#img-td {
+  height: 100px;
+  width: auto;
+}
+#closeForm {
+  height: 30px;
+  width: 30px;
+}
+
+/* box dichj vu  */
+
+
+.tittle_dichvu h1{
+  text-align: center;
+  margin-top: 45px;
+  margin-left: 30px;
+  letter-spacing: 2px;
+  transition: 0.5s;
+ 
+}
+.tittle_dichvu h1:hover{
+  color: #D864A9;
+}
+.tittle_dichvu p {
+  text-align: center; 
+  font-family: monospace;
+  
+}
+
+.tittle_dichvu a{
+  text-decoration: none;
+  /* font-weight: 300; */
+  font-family: Impact;
+ 
+}
+.tittle_dichvu a:hover{
+  color: #CD9B9B;
+  cursor: pointer;
+  
+}
+
+.container_dichvu {
+  /* display: flex; */
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  margin-left: 130px;
+  width: 80%;
+}
+.container_dichvu .box_content {
+  display: flex;
+  /* justify-content: space-between; */
+  flex-wrap: wrap;
+}
+.container_dichvu .box_dichvu {
+  width: 30%;
+}
+.box_dichvu {
+  width: 30%;
+  height: auto;
+  position: relative;
+  overflow: hidden;
+  border: 2px solid #f5d1d1;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-left: 35px;
+  transition: 0.7s;
+}
+.box_dichvu:hover{
+
+  margin-top: -10px;
+}
+.box_dichvu .box_image img {
+  width: 100%;
+  height: 400px;
+  border-radius: 5px 5px 0px 0px;
+}
+.box_noidung {
+  margin-left: 20px;
+}
+.ten_dichvu h4 {
+  text-align: center;
+  font-size: 26px;
+  margin-top: 6px;
+}
+.gia_dichvu {
+  text-align: center;
+  color: red;
+  font-size: 30px;
+  margin-top: 10px;
+}
+.button_datlich a {
+  text-decoration: none;
+}
+.button_datlich input{
+  padding: 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  outline: none;
+  border: none;
+  background-color: #f50867;
+  color: white;
+  border-radius: 5px;
+  transition: .3s ease;
+  margin-bottom: 10px;
+  width: 160px;
+  font-size: 16px;
+  margin-left: 55px;
+}
+.button_datlich input:hover {
+  background-color: #F875AA;
+}
+.mota_phai, .mota_trai ul li{
+  line-height: 25px;
+}
+.mota_dichvu {
+  margin-bottom: 15px;
+  margin-top: 10px;
+}
+/*Admin*/
+.title_home_admin {
+  margin-top: 30px;
+  text-align: center;
+}
+.container_admin_add {
+  margin-top: 50px;
+  margin-left: 10px;
+  line-height: 30px;
+}
+.tittle_admin_add {
+  margin-bottom: 20px;
+}
+.row_admin_add input {
+  height: 30px;
+  width: 30%;
+  border-radius: 5px;
+  padding-left: 10px;
+  outline: none;
+  border: 1px solid rgb(184, 181, 181);
+}
+.row_admin_add textarea {
+  resize: none;
+  width: 30%;
+}
+.row_admin_btn input {
+  padding: 8px;
+  background-color: rgb(0, 183, 255);
+  border: none;
+  border-radius: 4px;
+  color: white;
+  margin-left: 5px;
+  font-size: 14px;
+}
+.row_admin_btn input:hover {
+  background-color: rgb(0, 140, 255);
+}
+
